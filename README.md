@@ -22,7 +22,7 @@ This project aims  to provide a Task Management System for Back Officer:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/namkha1032/SoftwareEngineering-Assignment.git
+   git clone https://github.com/Quoc1610/UWC2.0_SE_group7.git
    ```
 2. Install packages
    ```sh
